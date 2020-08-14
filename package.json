@@ -35,5 +35,9 @@
   "homepage": "http://s4ng.github.io/React_movie_app",
   "devDependencies": {
     "gh-pages": "^2.0.1"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/s4ng/React_movie_app.git",
+  "author": "s4ng <zalcls951201@gmail.com>",
+  "license": "MIT"
 }
